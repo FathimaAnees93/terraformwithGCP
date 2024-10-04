@@ -1,5 +1,4 @@
 Creating a Google Cloud VM with Terraform
-
 Prerequisites:
 Before you can start creating resources with Terraform on Google Cloud, there are several prerequisites to set up.
 Step 1: Accessing Google Cloud Console
